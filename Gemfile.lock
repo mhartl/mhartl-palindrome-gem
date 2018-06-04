@@ -24,7 +24,7 @@ DEPENDENCIES
   bundler (~> 1.16)
   mhartl-palindrome!
   minitest (~> 5.0)
-  minitest-reporters
+  minitest-reporters (= 1.2.0)
   rake (~> 10.0)
 
 BUNDLED WITH
